@@ -3,4 +3,4 @@ Calculadora con React Native usando: Flex layout, useState, useRef, useCalculado
 
 
 
-![Calculadora](https://raw.githubusercontent.com/gejaga12/Calculator-React-Native/master/src/assets/ImagenV1.png)
+![Calculadora](https://raw.githubusercontent.com/gejaga12/Calculator-React-Native/master/src/assets/calc.png)
